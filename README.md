@@ -1,7 +1,6 @@
 # Research-Assignment
 Foundations of Data Analytics &amp; Data Science
 BrightLearn Research Assignment 1: Foundations of Data Analytics & Data Science
-BrightLearn Research Assignment 1: Foundations of Data Analytics & Data Science
 Course Overview
 This assignment is designed for beginner students to build a strong foundational understanding of the data landscape
 . It covers key concepts ranging from traditional data storage to advanced artificial intelligence and developer tools
